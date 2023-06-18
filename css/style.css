@@ -195,7 +195,7 @@ header .header_menu .form i{
     min-height: 100vh;
     /* using "background-color" Alternate if image dosen't work */
     background-color: #19c8fa;
-    background-image: url("../images/pawel-czerwinski-suLgJZ1edT4-unsplash.jpg");
+    background-image: url("../images/background_image.jpg");
     background-size: cover;
     position: relative;
 }
